@@ -1,2 +1,2 @@
-status = ["Build", "Run tests"]
+status = ["build"]
 delete-merged-branches = true
