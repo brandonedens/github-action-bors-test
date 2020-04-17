@@ -1,3 +1,2 @@
 status = ["Rust"]
-pr-status = ["License Compliance", "WIP"]
 delete-merged-branches = true
