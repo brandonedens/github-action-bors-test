@@ -1,8 +1,7 @@
 name: Rust
 
 on:
-  push:
-    branches: [ master, staging, trying ]
+  push
   pull_request:
     branches: [ master ]
 
