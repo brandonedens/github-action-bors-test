@@ -1,2 +1,2 @@
-status = ["Rust"]
+status = ["Build", "Run tests"]
 delete-merged-branches = true
